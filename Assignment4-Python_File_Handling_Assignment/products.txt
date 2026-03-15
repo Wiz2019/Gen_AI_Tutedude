@@ -1,0 +1,3 @@
+Pen | 50
+Scale | 10
+Eraser | 5
